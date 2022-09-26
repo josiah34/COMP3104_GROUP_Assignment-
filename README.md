@@ -1,5 +1,4 @@
 # COMP3104_GROUP_Assignment-
-<hr>
 
 ## Group Members
 
@@ -9,7 +8,6 @@
 - **Ravkeerat Singh**(101344680)
 
 
-<hr>
 
 ## Project History 
 
