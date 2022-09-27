@@ -1,0 +1,2 @@
+SDLC - Systems development life cycle
+Description-combines software development and IT operations
