@@ -3,4 +3,4 @@ Course Code: COMP 3104
 Academic Year: 2022-2023
 Term: Fall
 
-The course consists of 8 quizzes, 8 labs, 2 assignments, midterms, and finals
+The course consists of 8 quizzes, 8 labs, 2 assignments, midterms, and finals.
