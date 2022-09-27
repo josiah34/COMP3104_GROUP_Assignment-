@@ -1,0 +1,9 @@
+Course Code: COMP 3104
+Semester: 5
+Evaluation Criteria:
+8 Lab Exercises 
+8 Lecture Quizzes
+1 Individual Assignment 
+1 Group Assignment 
+1 Midterm Exam
+1 Final Exam 
