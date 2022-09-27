@@ -6,7 +6,7 @@
 - **Carlos Arellano**(101339585)
 - **Umit Kilinc**(101231721)
 - **Ravkeerat Singh**(101344680)
-
+- **David Pinto**(101280540)
 
 
 ## Project History 
