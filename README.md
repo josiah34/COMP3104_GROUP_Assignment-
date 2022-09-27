@@ -12,3 +12,4 @@
 ## Project History 
 
 - **September 26th**, Assignment Repo created along with local repo branches 
+- **September 27th**, github action workflow was added to the github assignment repo. Invidual group members made pull requests and merged their respective branches. Read for submission. 
