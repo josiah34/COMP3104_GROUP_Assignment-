@@ -1,0 +1,2 @@
+Devops is important in the context of the software development cycle as it enables teams to have
+faster development, simplified deployment maintenance and breaking down silos between Developer and Operations teams leading to increased collaboration. 
